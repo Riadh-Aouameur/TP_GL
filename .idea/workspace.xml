@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b27e144b-ea59-4292-bbf5-5ff6c56938c2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit4 Test Class" />
+        <option value="package-info" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectId" id="1VyYi0qQGF2YWpvsmKivC8Fnxbh" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ToolWindowSQL.ShowToolbar" value="false" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.3954023" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="Tp_GL" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="Tp_GL" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Tp_GL\src\test\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Cucumber java.Scenario: si5">
+    <configuration name="Scenario: si1" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="1.2" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/test.feature" />
+      <option name="GLUE" value="test" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="Tp_GL" />
+      <option name="NAME_FILTER" value="^si1$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome --name &quot;^si1$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: si1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: si2" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="1.2" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/test.feature" />
+      <option name="GLUE" value="test" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="Tp_GL" />
+      <option name="NAME_FILTER" value="^si2$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome --name &quot;^si2$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: si2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: si3" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="1.2" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/test.feature" />
+      <option name="GLUE" value="test" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="Tp_GL" />
+      <option name="NAME_FILTER" value="^si3$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome --name &quot;^si3$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: si3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: si4" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="1.2" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/test.feature" />
+      <option name="GLUE" value="test" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="Tp_GL" />
+      <option name="NAME_FILTER" value="^si4$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome --name &quot;^si4$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: si4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: si5" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="1.2" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/test.feature" />
+      <option name="GLUE" value="test" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="Tp_GL" />
+      <option name="NAME_FILTER" value="^si5$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome --name &quot;^si5$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: si5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Cucumber java.Scenario: si1" />
+      <item itemvalue="Cucumber java.Scenario: si3" />
+      <item itemvalue="Cucumber java.Scenario: si4" />
+      <item itemvalue="Cucumber java.Scenario: si5" />
+      <item itemvalue="Cucumber java.Scenario: si2" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Cucumber java.Scenario: si5" />
+        <item itemvalue="Cucumber java.Scenario: si4" />
+        <item itemvalue="Cucumber java.Scenario: si3" />
+        <item itemvalue="Cucumber java.Scenario: si2" />
+        <item itemvalue="Cucumber java.Scenario: si1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SQLPlugin.ProjectConfiguration">
+    <queries />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b27e144b-ea59-4292-bbf5-5ff6c56938c2" name="Default Changelist" comment="" />
+      <created>1576183717679</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576183717679</updated>
+    </task>
+    <option name="searchClosedTasks" value="true" />
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="362" y="73" key="#Plugins" timestamp="1578591796400">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="362" y="73" key="#Plugins/0.0.1536.824@0.0.1536.824" timestamp="1578591796400" />
+    <state x="362" y="73" key="#Project_Structure" timestamp="1578590693017">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="362" y="73" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1578590693017" />
+    <state x="238" y="10" key="#Scenario:_si3" timestamp="1578608096284">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="238" y="10" key="#Scenario:_si3/0.0.1536.824@0.0.1536.824" timestamp="1578608096284" />
+    <state x="262" y="138" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1578606635534">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="262" y="138" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1578606635534" />
+    <state x="500" y="161" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1578589664146">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="500" y="161" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1578589664146" />
+    <state width="1480" height="292" key="GridCell.Tab.0.bottom" timestamp="1578609208800">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1480" height="292" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1578609208800" />
+    <state width="1480" height="292" key="GridCell.Tab.0.center" timestamp="1578609208800">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1480" height="292" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1578609208800" />
+    <state width="1480" height="292" key="GridCell.Tab.0.left" timestamp="1578609208800">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1480" height="292" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1578609208800" />
+    <state width="1480" height="292" key="GridCell.Tab.0.right" timestamp="1578609208800">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1480" height="292" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1578609208800" />
+    <state x="578" y="331" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1578609425273">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="578" y="331" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1578609425273" />
+    <state x="203" y="116" key="new project wizard" timestamp="1578227228439">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="203" y="116" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1578227228439" />
+    <state x="426" y="188" key="run.anything.popup" timestamp="1578604628961">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="426" y="188" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1578604628961" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1578591778039">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1578591778039" />
+  </component>
+</project>
